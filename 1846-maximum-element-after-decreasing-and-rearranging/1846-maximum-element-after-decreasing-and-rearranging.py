@@ -8,7 +8,7 @@ class Solution:
             if abs(arr[i]-check)>1:
                 arr[i]=check+1
             check=arr[i]
-        return max(arr)
+        return arr[-1]
                 
 
             
