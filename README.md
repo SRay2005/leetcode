@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
+| [1816-truncate-sentence](https://github.com/SRay2005/leetcode/tree/master/1816-truncate-sentence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SRay2005/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRay2005/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SRay2005/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SRay2005/leetcode/tree/master/0006-zigzag-conversion) |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1816-truncate-sentence](https://github.com/SRay2005/leetcode/tree/master/1816-truncate-sentence) |
 ## Sliding Window
 |  |
 | ------- |
