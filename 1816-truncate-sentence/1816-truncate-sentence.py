@@ -1,9 +1,6 @@
 class Solution:
     def truncateSentence(self, s: str, k: int) -> str:
         words=s.split()
-        final=''
-        for i in range(0, k):
-            final+=words[i]
-            final+=' '
-        return final[:-1]
+        final=' '.join(words[:k])
+        return final
         
