@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SRay2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRay2005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SRay2005/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
