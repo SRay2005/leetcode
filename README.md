@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/SRay2005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1816-truncate-sentence](https://github.com/SRay2005/leetcode/tree/master/1816-truncate-sentence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SRay2005/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SRay2005/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRay2005/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SRay2005/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SRay2005/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SRay2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRay2005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SRay2005/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Math
 |  |
 | ------- |
