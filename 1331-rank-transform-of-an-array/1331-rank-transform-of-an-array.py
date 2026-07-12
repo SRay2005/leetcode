@@ -1,7 +1,6 @@
-from collections import defaultdict
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
-        dict1=defaultdict(int)
+        dict1={}
         rank=1
         seen=set()
         temp=arr.copy()
