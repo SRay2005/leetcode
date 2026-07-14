@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SRay2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1816-truncate-sentence](https://github.com/SRay2005/leetcode/tree/master/1816-truncate-sentence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SRay2005/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1861-rotating-the-box](https://github.com/SRay2005/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SRay2005/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRay2005/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SRay2005/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/SRay2005/leetcode/tree/master/0031-next-permutation) |
 | [0838-push-dominoes](https://github.com/SRay2005/leetcode/tree/master/0838-push-dominoes) |
+| [1861-rotating-the-box](https://github.com/SRay2005/leetcode/tree/master/1861-rotating-the-box) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRay2005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SRay2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRay2005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1861-rotating-the-box](https://github.com/SRay2005/leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SRay2005/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Math
 |  |
