@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SRay2005/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRay2005/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SRay2005/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRay2005/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SRay2005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRay2005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SRay2005/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SRay2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0838-push-dominoes](https://github.com/SRay2005/leetcode/tree/master/0838-push-dominoes) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRay2005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRay2005/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRay2005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/SRay2005/leetcode/tree/master/0412-fizz-buzz) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRay2005/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SRay2005/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SRay2005/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRay2005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRay2005/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
