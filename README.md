@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/SRay2005/leetcode/tree/master/0412-fizz-buzz) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SRay2005/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRay2005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRay2005/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SRay2005/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -161,9 +162,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SRay2005/leetcode/tree/master/0412-fizz-buzz) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SRay2005/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SRay2005/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRay2005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
