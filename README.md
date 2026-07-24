@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SRay2005/leetcode/tree/master/0076-minimum-window-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/SRay2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRay2005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SRay2005/leetcode/tree/master/0006-zigzag-conversion) |
+| [0076-minimum-window-substring](https://github.com/SRay2005/leetcode/tree/master/0076-minimum-window-substring) |
 | [0316-remove-duplicate-letters](https://github.com/SRay2005/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/SRay2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0838-push-dominoes](https://github.com/SRay2005/leetcode/tree/master/0838-push-dominoes) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SRay2005/leetcode/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
