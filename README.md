@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SRay2005/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SRay2005/leetcode/tree/master/0064-minimum-path-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRay2005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/SRay2005/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRay2005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRay2005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/SRay2005/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SRay2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/SRay2005/leetcode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRay2005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SRay2005/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRay2005/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRay2005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
