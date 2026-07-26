@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SRay2005/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRay2005/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRay2005/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SRay2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SRay2005/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRay2005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRay2005/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SRay2005/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SRay2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SRay2005/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRay2005/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
