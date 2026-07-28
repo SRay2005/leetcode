@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def shortestSubstrings(self, arr: List[str]) -> List[str]:
         n = len(arr)
