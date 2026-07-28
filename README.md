@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRay2005/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SRay2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SRay2005/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/SRay2005/leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRay2005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRay2005/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SRay2005/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SRay2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SRay2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/SRay2005/leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRay2005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SRay2005/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SRay2005/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SRay2005/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/SRay2005/leetcode/tree/master/1816-truncate-sentence) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/SRay2005/leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SRay2005/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SRay2005/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/SRay2005/leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
