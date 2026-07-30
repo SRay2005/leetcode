@@ -1,6 +1,5 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        n=len(word)
         count=0
         seen=set()
         m=0
