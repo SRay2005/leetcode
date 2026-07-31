@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/SRay2005/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SRay2005/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SRay2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SRay2005/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
