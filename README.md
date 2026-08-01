@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/SRay2005/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/SRay2005/leetcode/tree/master/0233-number-of-digit-one) |
 | [0412-fizz-buzz](https://github.com/SRay2005/leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/SRay2005/leetcode/tree/master/0486-predict-the-winner) |
