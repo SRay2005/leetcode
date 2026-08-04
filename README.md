@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SRay2005/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/SRay2005/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SRay2005/leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SRay2005/leetcode/tree/master/0064-minimum-path-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SRay2005/leetcode/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRay2005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/SRay2005/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SRay2005/leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/SRay2005/leetcode/tree/master/0031-next-permutation) |
 | [0838-push-dominoes](https://github.com/SRay2005/leetcode/tree/master/0838-push-dominoes) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SRay2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
