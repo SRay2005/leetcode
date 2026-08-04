@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SRay2005/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRay2005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SRay2005/leetcode/tree/master/0877-stone-game) |
+| [1052-grumpy-bookstore-owner](https://github.com/SRay2005/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/SRay2005/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRay2005/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SRay2005/leetcode/tree/master/0076-minimum-window-substring) |
+| [1052-grumpy-bookstore-owner](https://github.com/SRay2005/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
