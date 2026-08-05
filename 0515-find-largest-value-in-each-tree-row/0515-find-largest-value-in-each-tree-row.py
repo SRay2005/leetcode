@@ -9,27 +9,25 @@ class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
         if root is None:
             return []
+
+        q=deque([root])
+        ans=[]
+
+        while q:
+            level=[]
         
-        def bfs(node):
-            q=deque([node])
-            ans=[]
+            for _ in range(len(q)):
 
-            while q:
-                level=[]
+                node=q.popleft()
+                level.append(node.val)
             
-                for _ in range(len(q)):
-
-                    node=q.popleft()
-                    level.append(node.val)
+                if node.left:
+                    q.append(node.left)
                 
-                    if node.left:
-                        q.append(node.left)
-                    
-                    if node.right:
-                        q.append(node.right)
-                    
-                ans.append(max(level))
+                if node.right:
+                    q.append(node.right)
+                
+            ans.append(max(level))
             
-            return ans
+        return ans
         
-        return bfs(root)
