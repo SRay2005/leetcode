@@ -8,10 +8,13 @@ from collections import deque
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         ans=[]
-        if root is None:
-            return []
-        q=deque([root])
-        def bfs(node):            
+
+        def bfs(node):
+            if root is None:
+                return []
+
+            q=deque([root])
+                        
             while q:
                 level=[]
 
