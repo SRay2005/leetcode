@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SRay2005/leetcode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/SRay2005/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRay2005/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0820-short-encoding-of-words](https://github.com/SRay2005/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0877-stone-game](https://github.com/SRay2005/leetcode/tree/master/0877-stone-game) |
 | [1052-grumpy-bookstore-owner](https://github.com/SRay2005/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/SRay2005/leetcode/tree/master/1140-stone-game-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SRay2005/leetcode/tree/master/0076-minimum-window-substring) |
+| [0820-short-encoding-of-words](https://github.com/SRay2005/leetcode/tree/master/0820-short-encoding-of-words) |
 | [1331-rank-transform-of-an-array](https://github.com/SRay2005/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SRay2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/SRay2005/leetcode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/SRay2005/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/SRay2005/leetcode/tree/master/0412-fizz-buzz) |
+| [0820-short-encoding-of-words](https://github.com/SRay2005/leetcode/tree/master/0820-short-encoding-of-words) |
 | [0838-push-dominoes](https://github.com/SRay2005/leetcode/tree/master/0838-push-dominoes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRay2005/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0820-short-encoding-of-words](https://github.com/SRay2005/leetcode/tree/master/0820-short-encoding-of-words) |
 | [1268-search-suggestions-system](https://github.com/SRay2005/leetcode/tree/master/1268-search-suggestions-system) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/SRay2005/leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Heap (Priority Queue)
