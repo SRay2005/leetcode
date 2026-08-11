@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SRay2005/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRay2005/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRay2005/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2670-find-the-distinct-difference-array](https://github.com/SRay2005/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/SRay2005/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SRay2005/leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/SRay2005/leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SRay2005/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SRay2005/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SRay2005/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2670-find-the-distinct-difference-array](https://github.com/SRay2005/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SRay2005/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/SRay2005/leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRay2005/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
