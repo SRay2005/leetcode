@@ -393,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SRay2005/leetcode/tree/master/0207-course-schedule) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/SRay2005/leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
